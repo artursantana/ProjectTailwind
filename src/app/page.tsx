@@ -5,7 +5,7 @@ import Hero from '../components/Hero'
 export const page = () => {
   return (
     <>
-   <Nav/>
+  <Nav/>
   <Hero/>
     </>
   )
