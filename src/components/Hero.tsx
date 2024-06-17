@@ -4,12 +4,12 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='relative w-[100vw] h-[87vh] bg'>
-      <div className='w-[80%] mx-auto h-[100%] flex flex-col items-start justify-center'>
+    <div className='relative w-[100vw] h-[60vh] md:h-[87vh] bg'>
+      <div className='w-[90%] md:w-[80%] mx-auto h-[100%] flex flex-col items-start justify-center'>
         <div className='text-white font-bold text-[25px] md:text-[30px] lg:text-[40px] uppercase'>
           Best Place to Play
           </div>
-          <p className='text-white text-[18px] w-[80%] lg:w-[55%] mt-[1rem] md:mt-[0.2rem] opacity-60'>
+          <p className='text-white md:text-[14px] text-[18px] w-[80%] lg:w-[55%] mt-[1rem] md:mt-[0.2rem] opacity-60'>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque debitis nobis voluptatem ipsum deserunt possimus voluptatibus. Nam, quidem expedita, totam ipsum excepturi facere officiis reprehenderit dignissimos minus, itaque deleniti saepe.
           </p>
           <div>
